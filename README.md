@@ -72,15 +72,62 @@ The traditional system of promoting and managing events is fragmented and ineffi
 
 ## 📸 Screenshots
 
+> A visual walkthrough of the core features of **WatchMePlan**:
 
-- **Login Page**  
-  ![Login](screenshots/login-page.png)
+<table>
+  <tr>
+    <td align="center"><strong>Login Page</strong></td>
+    <td align="center"><strong>Home Page</strong></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/Login.jpg" width="95%"/></td>
+    <td><img src="screenshots/HomePage.jpg" width="95%"/></td>
+  </tr>
+  
+  <tr><td colspan="2"><br/></td></tr>
 
-- **Event Dashboard**  
-  ![Dashboard](screenshots/event-dashboard.png)
+  <tr>
+    <td align="center"><strong>Registration Page</strong></td>
+    <td align="center"><strong>User Dashboard</strong></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/Registration.jpg" width="95%"/></td>
+    <td><img src="screenshots/Dashboard.jpg" width="95%"/></td>
+  </tr>
+  
+  <tr><td colspan="2"><br/></td></tr>
 
-- **Booking Flow**  
-  ![Booking](screenshots/booking.png)
+  <tr>
+    <td align="center"><strong>Events Listing</strong></td>
+    <td align="center"><strong>Event Details</strong></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/Events.jpg" width="95%"/></td>
+    <td><img src="screenshots/EventDetails.jpg" width="95%"/></td>
+  </tr>
+  
+  <tr><td colspan="2"><br/></td></tr>
+
+  <tr>
+    <td align="center"><strong>Event Creation</strong></td>
+    <td align="center"><strong>Event Approval (Admin)</strong></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/EventCreation.jpg" width="95%"/></td>
+    <td><img src="screenshots/EventApproval.jpg" width="95%"/></td>
+  </tr>
+
+  <tr><td colspan="2"><br/></td></tr>
+
+  <tr>
+    <td align="center"><strong>Ticket Booking</strong></td>
+    <td align="center"><strong>About Us Page</strong></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/TicketBooking.jpg" width="95%"/></td>
+    <td><img src="screenshots/AboutUs.jpg" width="95%"/></td>
+  </tr>
+</table>
 
 ---
 
